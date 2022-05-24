@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521020624114",
+    "project_id": "mysedlife",
+    "storage_bucket": "mysedlife.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521020624114:android:3a3a216956951b3307d46b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bloc_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521020624114-qrtttfrdeduju9ds74oppeft0q00rh30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo65IOrKprGmvvvVfHMKuhZ2UPUz1jaaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521020624114-qrtttfrdeduju9ds74oppeft0q00rh30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
